@@ -1,22 +1,10 @@
 [
   {
-<<<<<<< HEAD
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": ".github.io",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-=======
->>>>>>> c66bbefccbd3fc891105d17758356d34307db437
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
-<<<<<<< HEAD
-=======
   },
   {
     "objectID": "index.html",
@@ -24,6 +12,5 @@
     "title": "venerahm.github.io",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
->>>>>>> c66bbefccbd3fc891105d17758356d34307db437
   }
 ]

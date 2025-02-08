@@ -1,11 +1,16 @@
 ---
-title: "<git-user>.github.io"
+title: "Hanna Venera"
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: rectangle
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/hanna-venera-197720196/
+    - icon: github
+      text: Github
+      href: https://github.com/venerahm
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Test Test

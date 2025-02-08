@@ -3,12 +3,12 @@ project:
   output-dir: docs
 
 website:
-  title: "venerahm.github.io"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  title: "Hanna Venera"
+  page-navigation: true
+  
+page-footer:
+    left: "&copy; Copyright 2025, Hanna Venera"
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
 
 format:
   html:
