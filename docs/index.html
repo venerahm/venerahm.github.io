@@ -24,6 +24,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-search/autocomplete.umd.js"></script>
 <script src="site_libs/quarto-search/fuse.min.js"></script>
@@ -38,11 +39,11 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
-  "location": "sidebar",
+  "location": "navbar",
   "copy-button": false,
   "collapse-after": 3,
-  "panel-placement": "start",
-  "type": "textbox",
+  "panel-placement": "end",
+  "type": "overlay",
   "limit": 50,
   "keyboard-shortcut": [
     "f",
@@ -69,14 +70,54 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">Hanna Venera</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link active" href="./index.html" aria-current="page"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./papers"> 
+<span class="menu-text">Papers</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+  <ul>
+  <li><a href="#bio" id="toc-bio" class="nav-link active" data-scroll-target="#bio">Bio</a></li>
+  <li><a href="#key-research-interests" id="toc-key-research-interests" class="nav-link" data-scroll-target="#key-research-interests">Key research interests</a></li>
+  <li><a href="#selected-papers" id="toc-selected-papers" class="nav-link" data-scroll-target="#selected-papers">Selected papers</a></li>
+  <li><a href="#professional-affiliations" id="toc-professional-affiliations" class="nav-link" data-scroll-target="#professional-affiliations">Professional affiliations</a></li>
+  <li><a href="#personal-life" id="toc-personal-life" class="nav-link" data-scroll-target="#personal-life">Personal life</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
 <div class="quarto-about-trestles">
   <div class="about-entity">
@@ -101,9 +142,35 @@ ul.task-list li input[type="checkbox"] {
 </div>
   </div>
   <div class="about-contents"><main class="content" id="quarto-document-content">
-<p>Test Test</p>
+
+<section id="bio" class="level2">
+<h2 data-anchor-id="bio">Bio</h2>
+<p>I am a Biostatistics PhD candidate at the University of Michigan working with Dr.&nbsp;Kelley Kidwell and Dr.&nbsp;Bingkai Wang on adaptive clinical trial methods.</p>
+<p>I received my Biostatistics MS at the University of Michigan in 2023 and attended Pacific Lutheran University for my undergraduate studies in Financial Mathematics and Economics.</p>
+<p>You can find a <a href="papers">list of my publications here</a>.</p>
+</section>
+<section id="key-research-interests" class="level2">
+<h2 data-anchor-id="key-research-interests">Key research interests</h2>
+<ul>
+<li><strong>name</strong>: description</li>
+</ul>
+</section>
+<section id="selected-papers" class="level2">
+<h2 data-anchor-id="selected-papers">Selected papers</h2>
+<p>Nahum-Shani, I., Dziak, J., <strong>Venera, H.</strong>, Spring, B., Dempsey, W. Design of Experiments with Sequential Randomizations at Multiple Time Scales: The Hybrid Experimental Designs. (2024). <em>Behavior Research Methods.</em> 56(3):1770-1792. <a href="https://doi.org/10.3758/s13428-023-02119-z">doi: 10.3758/s13428-023-02119-z</a></p>
+<p>See more <a href="papers">here</a>.</p>
+</section>
+<section id="professional-affiliations" class="level2">
+<h2 data-anchor-id="professional-affiliations">Professional affiliations</h2>
+<p><strong><a href="https://www.amstat.org/">The American Statistical Assocaition</a></strong> | Member since 2021</p>
+</section>
+<section id="personal-life" class="level2">
+<h2 data-anchor-id="personal-life">Personal life</h2>
+<p>I live in Ann Arbor, MI, enjoying the wonderful Midwest community (the people here really are wonderful). I grew up in North Idaho, and lived in Tacoma, WA during undergraduate with a study abroad in Granada, Spain my sophomore year.</p>
+<p>In my free time, I enjoy cooking (and eating), playing soccer, climbing, and petting dogs. Special shout out to my partner’s dog Turtle (:</p>
 
 
+</section>
 </main></div>
 </div>
  <!-- /main -->
