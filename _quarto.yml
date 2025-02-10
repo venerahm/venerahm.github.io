@@ -8,7 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - papers.qmd
+      - href: papers/papers.qmd
+        text: Papers
   
 page-footer:
     left: "&copy; Copyright 2025, Hanna Venera"
