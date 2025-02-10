@@ -24,7 +24,7 @@ You can find a [list of my publications here](papers/index.qmd).
 
 ## Key research interests
 
-* **SMARTs**: Sequential Multiple Assignement Randomized Trials; a type of multi-stage, factorial, randomized trial, in which some or all participants are randomized at two or more decision points
+* **SMARTs**: Sequential Multiple Assignment Randomized Trials; a type of multi-stage, factorial, randomized trial, in which some or all participants are randomized at two or more decision points
 
 ## Selected papers
 
