@@ -8,7 +8,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: papers/papers.qmd
+      - href: papers/index.qmd
         text: Papers
   
 page-footer:

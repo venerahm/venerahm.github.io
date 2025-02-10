@@ -20,7 +20,7 @@ I am a Biostatistics PhD candidate at the University of Michigan working with Dr
 
 I received my Biostatistics MS at the University of Michigan in 2023 and attended Pacific Lutheran University for my undergraduate studies in Financial Mathematics and Economics.
 
-You can find a [list of my publications here](papers). 
+You can find a [list of my publications here](papers/index.qmd). 
 
 ## Key research interests
 
@@ -30,7 +30,7 @@ You can find a [list of my publications here](papers).
 
 Nahum-Shani, I., Dziak, J., **Venera, H.**, Spring, B., Dempsey, W. Design of Experiments with Sequential Randomizations at Multiple Time Scales: The Hybrid Experimental Designs. (2024). *Behavior Research Methods.* 56(3):1770-1792. [doi: 10.3758/s13428-023-02119-z](https://doi.org/10.3758/s13428-023-02119-z)
 
-See more [here](papers).
+See more [here](papers/index.qmd).
 
 ## Professional affiliations
 
