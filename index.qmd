@@ -11,6 +11,7 @@ about:
     - icon: github
       text: Github
       href: https://github.com/venerahm
+  image: images/Headshot_Compressed.jpeg
 ---
 
 Test Test
