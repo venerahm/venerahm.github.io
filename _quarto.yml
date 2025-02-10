@@ -10,6 +10,8 @@ website:
         text: Home
       - href: papers/index.qmd
         text: Papers
+      - href: awards/index.qmd
+        text: Awards
       - href: media/index.qmd
         text: Media
   
