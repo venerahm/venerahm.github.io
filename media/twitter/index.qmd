@@ -6,7 +6,7 @@ author:
   - name: Hanna Venera
     email: venerahm@umich.edu
   - name: Dr. Bhramar Mukherjee
-    email: @BhramarBioStat
+    twitter: BhramarBioStat
 date: 2024-03-11
 categories: ["Conferences"]
 image: Bhramar_ENAR.jpeg
