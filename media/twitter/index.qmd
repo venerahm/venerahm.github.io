@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "ENAR Reception"
 description: |
     I had the pleasure of co-hosting the Michigan Biostatistics reception at ENAR with Dr. Bhramar Mukherjee.
 author:
