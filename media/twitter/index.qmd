@@ -1,22 +1,21 @@
 ---
 title: "ENAR Reception"
 description: |
-    I had the pleasure of co-hosting the Michigan Biostatistics reception at ENAR with Dr. Bhramar Mukherjee.
+    Michigan Biostatistics reception at ENAR with Dr. Bhramar Mukherjee
 author:
   - name: Hanna Venera
     email: venerahm@umich.edu
   - name: Dr. Bhramar Mukherjee
-    twitter: BhramarBioStat
 date: 2024-03-11
 categories: ["Conferences"]
 image: Bhramar_ENAR.jpeg
 format:
   html:
+    embed-resources: true
     df-print: paged
     toc: true
 ---
+<img src="Bhramar_Post.png" alt="Alt text" width="500">
 
-<blockquote class="twitter-tweet">
-  <a href="https://x.com/BhramarBioStat/status/1767349363905294393"></a>
-</blockquote> 
+<a class="twitter-timeline" href="https://x.com/BhramarBioStat/status/1767349363905294393">View post here</a>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
