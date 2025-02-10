@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Hanna Venera"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: papers
+        text: Papers
+  
+page-footer:
+    left: "&copy; Copyright 2025, Hanna Venera"
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

@@ -1,0 +1,43 @@
+---
+title: "Hanna Venera"
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: rectangle
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/hanna-venera-197720196/
+    - icon: github
+      text: Github
+      href: https://github.com/venerahm
+  image: images/Headshot_Compressed.jpeg
+---
+
+## Bio
+
+I am a Biostatistics PhD candidate at the University of Michigan working with Dr. Kelley Kidwell and Dr. Bingkai Wang on adaptive clinical trial methods. 
+
+I received my Biostatistics MS at the University of Michigan in 2023 and attended Pacific Lutheran University for my undergraduate studies in Financial Mathematics and Economics.
+
+You can find a [list of my publications here](papers). 
+
+## Key research interests
+
+* **name**: description
+
+## Selected papers
+
+Nahum-Shani, I., Dziak, J., **Venera, H.**, Spring, B., Dempsey, W. Design of Experiments with Sequential Randomizations at Multiple Time Scales: The Hybrid Experimental Designs. (2024). *Behavior Research Methods.* 56(3):1770-1792. [doi: 10.3758/s13428-023-02119-z](https://doi.org/10.3758/s13428-023-02119-z)
+
+See more [here](papers).
+
+## Professional affiliations
+
+**[The American Statistical Assocaition](https://www.amstat.org/)** | Member since 2021
+
+## Personal life
+
+I live in Ann Arbor, MI, enjoying the wonderful Midwest community (the people here really are wonderful). I grew up in North Idaho, and lived in Tacoma, WA during undergraduate with a study abroad in Granada, Spain my sophomore year. 
+
+In my free time, I enjoy cooking (and eating), playing soccer, climbing, and petting dogs. Special shout out to my partner's dog Turtle (:
