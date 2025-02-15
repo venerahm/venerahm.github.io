@@ -15,7 +15,11 @@ format:
     df-print: paged
     toc: true
 ---
-<img src="Bhramar_Post.png" alt="Alt text" width="500">
+
+<img src="Bhramar_Post.png" alt="Alt text" width="500"/>
 
 <a class="twitter-timeline" href="https://x.com/BhramarBioStat/status/1767349363905294393">View post here</a>
+
+```{=html}
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```

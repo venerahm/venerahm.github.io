@@ -1,5 +1,5 @@
 ---
-title: "Hanna Venera"
+title: "Hanna Venera, MS"
 about:
   id: hero-heading
   template: trestles
@@ -33,6 +33,8 @@ Nahum-Shani, I., Dziak, J., **Venera, H.**, Spring, B., Dempsey, W. Design of Ex
 See more [here](papers/index.qmd).
 
 ## Professional affiliations
+
+* **Statistics in the Community [(STATCOM)](https://sph.umich.edu/biostat/statcom/)** | Member since 2021
 
 **[The American Statistical Association](https://www.amstat.org/)** | Member since 2021
 
