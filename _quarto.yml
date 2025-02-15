@@ -14,8 +14,7 @@ website:
         text: Awards
       - href: media/index.qmd
         text: Media
-  
-body-footer: |
+  body-footer: |
     left: "Copyright 2025, Hanna Venera"
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
 
