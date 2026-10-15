@@ -1,0 +1,27 @@
+---
+title: "Presentations"
+---
+
+## Contributed oral presentations
+
+- **Venera, H.**, Walton, M., Wang, B., & Kidwell, K. Zero Inflated Outcomes in SMART Designs. Society for Clinical Trials Annual Meeting. Phoenix, Arizona, 2026.
+
+- **Venera, H.**, Walton, M., Wang, B., & Kidwell, K. Zero Inflated Outcomes in SMART Designs. Women in Statistics and Data Science. Cincinnati, Ohio, 2025.
+
+- **Venera, H.**, Dempsey, W., & Nahum-Shani, I. Data Analytic Approach for Hybrid SMART-MRT Designs: The SMART Weight Loss Case Study. Michigan Student Symposium for Interdisciplinary Statistical Sciences. Ann Arbor, Michigan, 2023.
+
+- **Venera, H.**, & Chin, E. Prevalence of Chronic Pain in Individuals with Cerebral Palsy: A Longitudinal Analysis of Clinical Pain Ratings. CDC Undergraduate Public Health Scholars Program Student Showcase and Expo. Baltimore, Maryland, 2021.
+
+- **Venera, H.**, & Travis, K. COVID-19: An Econometric Analysis of Depression Rates. National Conference on Undergraduate Research. Virtual, 2021.
+
+- **Venera, H.**, & Travis, K. COVID-19: An Econometric Analysis of Depression Rates. Midwest Economics Association Annual Meeting. Virtual, 2021.
+
+## Poster presentations
+
+- **Venera, H.**, Walton, M., Wang, B., & Kidwell, K. Zero Inflated Outcomes in SMART Designs. Joint Statistical Meetings. Boston, Massachusetts, 2026.
+
+- **Venera, H.**, Walton, M., Wang, B., & Kidwell, K. Zero Inflated Outcomes in SMART Designs. Eastern North American Region of the International Biometrics Society. Indianapolis, Indiana, 2026.
+
+- **Venera, H.**, & Chin, E. Prevalence of Chronic Pain in Individuals with Cerebral Palsy: A Longitudinal Analysis of Clinical Pain Ratings. Johns Hopkins CARES Symposium. Baltimore, Maryland, 2021.
+
+- **Venera, H.**, Zigarelli, A., & Receveur, B. Computationally Efficient, Exact, Multi-marker Omnibus Tests by Leveraging Individual Marker Summary Statistics from Large Biobanks. Program in Quantitative Genomics Conference. Cambridge, Massachusetts, 2020.

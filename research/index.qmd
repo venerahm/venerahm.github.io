@@ -1,0 +1,27 @@
+---
+title: "Research"
+---
+
+My research focuses on statistical methods for adaptive interventions and Sequential Multiple Assignment Randomized Trials (SMARTs), with particular attention to complex outcomes and efficient treatment comparisons.
+
+## Baseline-adjusted estimation in SMARTs
+
+I am developing ANCOVA-style estimators that use baseline covariates to improve precision when comparing dynamic treatment regimes in SMARTs. This work evaluates common and regime-specific adjustment strategies and develops calibrated, variance-minimizing estimators designed to prevent efficiency loss under model misspecification.
+
+My work includes theoretical development, simulation studies in R, and applications to trial data.
+
+## Zero-inflated longitudinal outcomes
+
+I developed marginal and conditional hurdle models for longitudinal count outcomes with excess zeros in SMARTs. These methods use weighted-and-replicated generalized estimating equations and g-computation to estimate treatment-regimen-specific zero probabilities and positive-count means.
+
+I evaluated these methods through simulation studies and applied them to data from the SafERteens M-Coach trial. A manuscript describing this work is currently under review.
+
+## Collaborative research
+
+My collaborative projects include:
+
+- Statistical and programming quality review for SMARTs.
+- Analysis of the financial burden of oral cancer treatments, including financial assistance, out-of-pocket costs, and treatment initiation.
+- Evaluation of methods for analyzing multiple outcomes with differing hypotheses in platform trials.
+- Previous research on SMART designs with survival and time-to-event outcomes.
+- Mobile-health and adaptive-intervention studies involving SMART and micro-randomized trial data.

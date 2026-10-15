@@ -1,0 +1,38 @@
+---
+title: "Teaching and Service"
+---
+
+## Teaching
+
+### University of Michigan
+
+- **Biostatistics Tutor**, PUBHLTH 500: Investigating Public Health Issues, Fall 2025
+- **Graduate Student Grader**, BIOSTAT 641: Causal Inference, Fall 2025
+- **Graduate Student Instructor**, BIOSTAT 619: Clinical Trials, Fall 2024
+- **Graduate Student Instructor**, PUBHLTH 383: Data Driven Solutions in Public Health, Winter 2024
+- **Graduate Student Instructor**, PUBHLTH 500: Investigating Public Health Issues, Fall 2023
+- **Guest Lecturer**, BIOSTAT 611: Graduate School and Professional Success Skills, 2024-2026
+- **Guest Lecturer**, BIOSTAT 619: Clinical Trials, 2023
+
+## Leadership and service
+
+### Statistics in the Community
+
+Since 2021, I have supported community-engaged statistical consulting through Statistics in the Community (STATCOM). My leadership roles have included co-president, treasurer, CTAC liaison, and national presence chair.
+
+I have helped scope and direct consulting projects, mentor student consultants, coordinate relationships with community partners, manage budgets and fundraising, and establish a national chapter network and annual meeting.
+
+### Additional service
+
+- Biostatistics representative and board member, University of Michigan School of Public Health Doctoral Association
+- STEM professional and mentor, Letters to a Pre-Scientist
+- Alumni mentor, Pacific Lutheran University
+- Admissions ambassador, University of Michigan School of Public Health
+- Student coordinator, Big Data Summer Institute, 2022-2025
+- DataFest mentor, Pacific Lutheran University, 2023, 2025, and 2026
+- Graduate student mentor and Peer Mentoring Committee member, 2022-2025
+
+## Professional development
+
+- **Science Communication Fellow**, University of Michigan Museum of Natural History and NSF Portal to the Public, 2026
+- **Scientific Writing Workshop**, University of Michigan and Kenyon College, 2026
