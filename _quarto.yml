@@ -1,28 +1,23 @@
-project:
-  type: website
-  output-dir: docs
-
 website:
   title: "Hanna Venera"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - href: papers/index.qmd
-        text: Papers
+      - href: research/index.qmd
+        text: Research
+      - text: Scholarship
+        menu:
+          - href: papers/index.qmd
+            text: Publications
+          - href: presentations/index.qmd
+            text: Presentations
+      - href: teaching-service/index.qmd
+        text: Teaching & Service
       - href: awards/index.qmd
         text: Awards
       - href: media/index.qmd
         text: Media
-  page-footer: 
-    left: "Copyright 2025, Hanna Venera"
-    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
-
-format:
-  html:
-    theme: cosmo
-    css: styles.css
-    toc: true
-
-editor: visual
-
+  page-footer:
+    left: "Copyright 2026, Hanna Venera"
+    right: "Built with ❤️ and [Quarto](https://quarto.org/)."
