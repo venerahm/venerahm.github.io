@@ -39,14 +39,14 @@
     "href": "index.html",
     "title": "Hanna Venera, MS",
     "section": "",
-    "text": "I am a PhD candidate in Biostatistics at the University of Michigan, with an expected graduation date of May 2027. I work with Dr. Kelley Kidwell and Dr. Bingkai Wang on statistical methods for Sequential Multiple Assignment Randomized Trials (SMARTs).\nMy dissertation develops methods for zero-inflated longitudinal outcomes and baseline-adjusted estimation in SMARTs. My broader interests include adaptive interventions, clinical trials, longitudinal data analysis, and statistical methods for improving the precision and interpretability of treatment comparisons.\nI earned an MS in Biostatistics from the University of Michigan in 2023 and a BS in Financial Mathematics and BA in Economics from Pacific Lutheran University in 2021.\nYou can find a list of my publications here."
+    "text": "I am a PhD candidate in Biostatistics at the University of Michigan, with an expected graduation date of May 2027. I work with Dr. Kelley Kidwell and Dr. Bingkai Wang on statistical methods for Sequential Multiple Assignment Randomized Trials (SMARTs).\nMy dissertation develops methods for zero-inflated longitudinal outcomes and baseline-adjusted estimation in SMARTs. My broader interests include adaptive interventions, clinical trials, longitudinal data analysis, and statistical methods for improving the precision and interpretability of treatment comparisons.\nI earned an MS in Biostatistics from the University of Michigan in 2023 and a BS in Financial Mathematics and BA in Economics from Pacific Lutheran University in 2021.\nYou can find my publications and manuscripts here."
   },
   {
     "objectID": "index.html#bio",
     "href": "index.html#bio",
     "title": "Hanna Venera, MS",
     "section": "",
-    "text": "I am a PhD candidate in Biostatistics at the University of Michigan, with an expected graduation date of May 2027. I work with Dr. Kelley Kidwell and Dr. Bingkai Wang on statistical methods for Sequential Multiple Assignment Randomized Trials (SMARTs).\nMy dissertation develops methods for zero-inflated longitudinal outcomes and baseline-adjusted estimation in SMARTs. My broader interests include adaptive interventions, clinical trials, longitudinal data analysis, and statistical methods for improving the precision and interpretability of treatment comparisons.\nI earned an MS in Biostatistics from the University of Michigan in 2023 and a BS in Financial Mathematics and BA in Economics from Pacific Lutheran University in 2021.\nYou can find a list of my publications here."
+    "text": "I am a PhD candidate in Biostatistics at the University of Michigan, with an expected graduation date of May 2027. I work with Dr. Kelley Kidwell and Dr. Bingkai Wang on statistical methods for Sequential Multiple Assignment Randomized Trials (SMARTs).\nMy dissertation develops methods for zero-inflated longitudinal outcomes and baseline-adjusted estimation in SMARTs. My broader interests include adaptive interventions, clinical trials, longitudinal data analysis, and statistical methods for improving the precision and interpretability of treatment comparisons.\nI earned an MS in Biostatistics from the University of Michigan in 2023 and a BS in Financial Mathematics and BA in Economics from Pacific Lutheran University in 2021.\nYou can find my publications and manuscripts here."
   },
   {
     "objectID": "index.html#research-interests",
@@ -116,28 +116,49 @@
     "href": "research/index.html#baseline-adjusted-estimation-in-smarts",
     "title": "Research",
     "section": "Baseline-adjusted estimation in SMARTs",
-    "text": "Baseline-adjusted estimation in SMARTs\nI develop ANCOVA-style estimators that use baseline covariates to improve precision when comparing dynamic treatment regimes in SMARTs. This work evaluates common and regime-specific adjustment strategies and develops calibrated, variance-minimizing estimators designed to prevent efficiency loss under model misspecification.\nMy work includes theoretical development, simulation studies in R, and applications to trial data."
+    "text": "Baseline-adjusted estimation in SMARTs\nI am developing ANCOVA-style estimators that use baseline covariates to improve precision when comparing dynamic treatment regimes in SMARTs. This work evaluates common and regime-specific adjustment strategies and develops calibrated, variance-minimizing estimators designed to prevent efficiency loss under model misspecification.\nMy work includes theoretical development, simulation studies in R, and applications to trial data."
   },
   {
     "objectID": "research/index.html#zero-inflated-longitudinal-outcomes",
     "href": "research/index.html#zero-inflated-longitudinal-outcomes",
     "title": "Research",
     "section": "Zero-inflated longitudinal outcomes",
-    "text": "Zero-inflated longitudinal outcomes\nI develop marginal and conditional hurdle models for longitudinal count outcomes with excess zeros in SMARTs. These methods use weighted-and-replicated generalized estimating equations and g-computation to estimate treatment-regimen-specific zero probabilities and positive-count means.\nI evaluated these methods through simulation studies and applied them to data from the SafERteens M-Coach trial. A manuscript describing this work is currently under review."
+    "text": "Zero-inflated longitudinal outcomes\nI developed marginal and conditional hurdle models for longitudinal count outcomes with excess zeros in SMARTs. These methods use weighted-and-replicated generalized estimating equations and g-computation to estimate treatment-regimen-specific zero probabilities and positive-count means.\nI evaluated these methods through simulation studies and applied them to data from the SafERteens M-Coach trial. A manuscript describing this work is currently under review."
   },
   {
     "objectID": "research/index.html#collaborative-research",
     "href": "research/index.html#collaborative-research",
     "title": "Research",
     "section": "Collaborative research",
-    "text": "Collaborative research\nMy collaborative projects include:\n\nStatistical and programming quality review for ASPIRE-2.\nAnalysis of the financial burden of oral cancer treatments, including financial assistance, out-of-pocket costs, and treatment initiation.\nEvaluation of methods for analyzing multiple outcomes with differing hypotheses in platform trials.\nPrevious research on SMART designs with survival and time-to-event outcomes.\nMobile-health and adaptive-intervention studies involving SMART and micro-randomized trial data."
+    "text": "Collaborative research\nMy collaborative projects include:\n\nStatistical and programming quality review for SMARTs.\nAnalysis of the financial burden of oral cancer treatments, including financial assistance, out-of-pocket costs, and treatment initiation.\nEvaluation of methods for analyzing multiple outcomes with differing hypotheses in platform trials.\nPrevious research on SMART designs with survival and time-to-event outcomes.\nMobile-health and adaptive-intervention studies involving SMART and micro-randomized trial data."
   },
   {
     "objectID": "papers/index.html",
     "href": "papers/index.html",
-    "title": "Papers",
+    "title": "Publications and Manuscripts",
     "section": "",
-    "text": "2024\n\nKraft S., Cheung A., Westover M., Widmer G., Pichla N., Venera H., Kidwell K.M., Henry N.L. Characterizing access for oral oncolytics used to treat breast cancer at an academic medical center. (2024). JCO Oncology Practice 20(10_suppl): 116. doi: 10.1200/OP.2024.20.10_suppl.116\nNahum-Shani, I., Dziak, J., Venera, H., Spring, B., Dempsey, W. Design of Experiments with Sequential Randomizations at Multiple Time Scales: The Hybrid Experimental Designs. (2024). Behavior Research Methods. 56(3):1770-1792. doi: 10.3758/s13428-023-02119-z\n\n\n\n2023\n\nZigarelli, A.M., Venera, H.M., Receveur, B.A., Wolf, J.M., Westra, J., Tintle, N.L. Multi-marker omnibus tests leveraging individual marker summary statistics from large biobanks. (2023). Annals of Human Genetics. 87(3): 125-136. doi: 10.1111/ahg.12495 https://doi.org/10.1200/OP.2024.20.10_suppl.116"
+    "text": "* Denotes equal-contributor co-first authors."
+  },
+  {
+    "objectID": "papers/index.html#peer-reviewed",
+    "href": "papers/index.html#peer-reviewed",
+    "title": "Publications and Manuscripts",
+    "section": "Peer-Reviewed",
+    "text": "Peer-Reviewed\n\nZigarelli, A. M.*, Venera, H. M.*, Receveur, B. A., Wolf, J. M., Westra, J., & Tintle, N. L. (2023). Multi-marker omnibus tests leveraging individual marker summary statistics from large biobanks. Annals of Human Genetics, 87(3), 125-136. https://doi.org/10.1111/ahg.12495\nNahum-Shani, I., Dziak, J., Venera, H., Spring, B., & Dempsey, W. (2023). Design of experiments with sequential randomizations at multiple time scales: The hybrid experimental designs. Behavior Research Methods, 56(3), 1770-1792. https://doi.org/10.3758/s13428-023-02119-z"
+  },
+  {
+    "objectID": "papers/index.html#under-review",
+    "href": "papers/index.html#under-review",
+    "title": "Publications and Manuscripts",
+    "section": "Under Review",
+    "text": "Under Review\n\nVenera, H., Walton, M., Wang, B., & Kidwell, K. (2026). Hurdle models for zero-inflated outcomes in Sequential Multiple Assignment Randomized Trials. Under review at Biometrics Practice."
+  },
+  {
+    "objectID": "papers/index.html#in-progress",
+    "href": "papers/index.html#in-progress",
+    "title": "Publications and Manuscripts",
+    "section": "In Progress",
+    "text": "In Progress\n\nVenera, H., Kidwell, K., & Wang, B. ANCOVA in SMARTs: Robustness, no-efficiency-loss conditions, and calibrated adjustment.\nCheung, A., Westover, M., Venera, H., Kidwell, K., Widmer, G., Henry, N. L., & Kraft, S. Characterizing access for oral oncolytics used to treat breast cancer at an academic medical center. Published conference abstract"
   },
   {
     "objectID": "about.html",

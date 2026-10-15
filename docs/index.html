@@ -99,21 +99,14 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./research/index.html"> 
 <span class="menu-text">Research</span></a>
   </li>  
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-scholarship" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Scholarship</span>
-    </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-scholarship">    
-        <li>
-    <a class="dropdown-item" href="./papers/index.html">
- <span class="dropdown-text">Publications</span></a>
+  <li class="nav-item">
+    <a class="nav-link" href="./papers/index.html"> 
+<span class="menu-text">Publications &amp; Manuscripts</span></a>
   </li>  
-        <li>
-    <a class="dropdown-item" href="./presentations/index.html">
- <span class="dropdown-text">Presentations</span></a>
+  <li class="nav-item">
+    <a class="nav-link" href="./presentations/index.html"> 
+<span class="menu-text">Presentations</span></a>
   </li>  
-    </ul>
-  </li>
   <li class="nav-item">
     <a class="nav-link" href="./teaching-service/index.html"> 
 <span class="menu-text">Teaching &amp; Service</span></a>
@@ -179,7 +172,7 @@ ul.task-list li input[type="checkbox"] {
 <p>I am a PhD candidate in Biostatistics at the University of Michigan, with an expected graduation date of May 2027. I work with Dr.&nbsp;Kelley Kidwell and Dr.&nbsp;Bingkai Wang on statistical methods for Sequential Multiple Assignment Randomized Trials (SMARTs).</p>
 <p>My dissertation develops methods for zero-inflated longitudinal outcomes and baseline-adjusted estimation in SMARTs. My broader interests include adaptive interventions, clinical trials, longitudinal data analysis, and statistical methods for improving the precision and interpretability of treatment comparisons.</p>
 <p>I earned an MS in Biostatistics from the University of Michigan in 2023 and a BS in Financial Mathematics and BA in Economics from Pacific Lutheran University in 2021.</p>
-<p>You can find a <a href="./papers/index.html">list of my publications here</a>.</p>
+<p>You can find my <a href="./papers/index.html">publications and manuscripts here</a>.</p>
 </section>
 <section id="research-interests" class="level2">
 <h2 data-anchor-id="research-interests">Research interests</h2>
@@ -276,7 +269,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/venerahm\.github\.io");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

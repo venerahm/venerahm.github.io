@@ -1,13 +1,21 @@
 ---
-title: Papers
+title: "Publications and Manuscripts"
 ---
 
-# 2024
+\* Denotes equal-contributor co-first authors.
 
--   Kraft S., Cheung A., Westover M., Widmer G., Pichla N., **Venera H.**, Kidwell K.M., Henry N.L. Characterizing access for oral oncolytics used to treat breast cancer at an academic medical center. (2024). *JCO Oncology Practice* 20(10_suppl): 116. [doi: 10.1200/OP.2024.20.10_suppl.116](https://doi.org/10.1200/OP.2024.20.10_suppl.116)
+## Peer-Reviewed
 
--   Nahum-Shani, I., Dziak, J., **Venera, H.**, Spring, B., Dempsey, W. Design of Experiments with Sequential Randomizations at Multiple Time Scales: The Hybrid Experimental Designs. (2024). *Behavior Research Methods.* 56(3):1770-1792. [doi: 10.3758/s13428-023-02119-z](https://doi.org/10.3758/s13428-023-02119-z)
+- Zigarelli, A. M.\*, **Venera, H. M.\***, Receveur, B. A., Wolf, J. M., Westra, J., & Tintle, N. L. (2023). Multi-marker omnibus tests leveraging individual marker summary statistics from large biobanks. *Annals of Human Genetics, 87*(3), 125-136. <https://doi.org/10.1111/ahg.12495>
 
-# 2023
+- Nahum-Shani, I., Dziak, J., **Venera, H.**, Spring, B., & Dempsey, W. (2023). Design of experiments with sequential randomizations at multiple time scales: The hybrid experimental designs. *Behavior Research Methods, 56*(3), 1770-1792. <https://doi.org/10.3758/s13428-023-02119-z>
 
--   Zigarelli, A.M., **Venera, H.M.**, Receveur, B.A., Wolf, J.M., Westra, J., Tintle, N.L. Multi-marker omnibus tests leveraging individual marker summary statistics from large biobanks. (2023). *Annals of Human Genetics*. 87(3): 125-136. [doi: 10.1111/ahg.12495](https://doi.org/10.1111/ahg.12495) <https://doi.org/10.1200/OP.2024.20.10_suppl.116>
+## Under Review
+
+- **Venera, H.**, Walton, M., Wang, B., & Kidwell, K. (2026). Hurdle models for zero-inflated outcomes in Sequential Multiple Assignment Randomized Trials. Under review at *Biometrics Practice*.
+
+## In Progress
+
+- **Venera, H.**, Kidwell, K., & Wang, B. ANCOVA in SMARTs: Robustness, no-efficiency-loss conditions, and calibrated adjustment.
+
+- Cheung, A., Westover, M., **Venera, H.**, Kidwell, K., Widmer, G., Henry, N. L., & Kraft, S. Characterizing access for oral oncolytics used to treat breast cancer at an academic medical center. [Published conference abstract](https://doi.org/10.1200/OP.2024.20.10_suppl.116)

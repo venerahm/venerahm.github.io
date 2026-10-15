@@ -100,21 +100,14 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link active" href="../research/index.html" aria-current="page"> 
 <span class="menu-text">Research</span></a>
   </li>  
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-scholarship" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Scholarship</span>
-    </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-scholarship">    
-        <li>
-    <a class="dropdown-item" href="../papers/index.html">
- <span class="dropdown-text">Publications</span></a>
+  <li class="nav-item">
+    <a class="nav-link" href="../papers/index.html"> 
+<span class="menu-text">Publications &amp; Manuscripts</span></a>
   </li>  
-        <li>
-    <a class="dropdown-item" href="../presentations/index.html">
- <span class="dropdown-text">Presentations</span></a>
+  <li class="nav-item">
+    <a class="nav-link" href="../presentations/index.html"> 
+<span class="menu-text">Presentations</span></a>
   </li>  
-    </ul>
-  </li>
   <li class="nav-item">
     <a class="nav-link" href="../teaching-service/index.html"> 
 <span class="menu-text">Teaching &amp; Service</span></a>
@@ -174,19 +167,19 @@ ul.task-list li input[type="checkbox"] {
 <p>My research focuses on statistical methods for adaptive interventions and Sequential Multiple Assignment Randomized Trials (SMARTs), with particular attention to complex outcomes and efficient treatment comparisons.</p>
 <section id="baseline-adjusted-estimation-in-smarts" class="level2">
 <h2 class="anchored" data-anchor-id="baseline-adjusted-estimation-in-smarts">Baseline-adjusted estimation in SMARTs</h2>
-<p>I develop ANCOVA-style estimators that use baseline covariates to improve precision when comparing dynamic treatment regimes in SMARTs. This work evaluates common and regime-specific adjustment strategies and develops calibrated, variance-minimizing estimators designed to prevent efficiency loss under model misspecification.</p>
+<p>I am developing ANCOVA-style estimators that use baseline covariates to improve precision when comparing dynamic treatment regimes in SMARTs. This work evaluates common and regime-specific adjustment strategies and develops calibrated, variance-minimizing estimators designed to prevent efficiency loss under model misspecification.</p>
 <p>My work includes theoretical development, simulation studies in R, and applications to trial data.</p>
 </section>
 <section id="zero-inflated-longitudinal-outcomes" class="level2">
 <h2 class="anchored" data-anchor-id="zero-inflated-longitudinal-outcomes">Zero-inflated longitudinal outcomes</h2>
-<p>I develop marginal and conditional hurdle models for longitudinal count outcomes with excess zeros in SMARTs. These methods use weighted-and-replicated generalized estimating equations and g-computation to estimate treatment-regimen-specific zero probabilities and positive-count means.</p>
+<p>I developed marginal and conditional hurdle models for longitudinal count outcomes with excess zeros in SMARTs. These methods use weighted-and-replicated generalized estimating equations and g-computation to estimate treatment-regimen-specific zero probabilities and positive-count means.</p>
 <p>I evaluated these methods through simulation studies and applied them to data from the SafERteens M-Coach trial. A manuscript describing this work is currently under review.</p>
 </section>
 <section id="collaborative-research" class="level2">
 <h2 class="anchored" data-anchor-id="collaborative-research">Collaborative research</h2>
 <p>My collaborative projects include:</p>
 <ul>
-<li>Statistical and programming quality review for ASPIRE-2.</li>
+<li>Statistical and programming quality review for SMARTs.</li>
 <li>Analysis of the financial burden of oral cancer treatments, including financial assistance, out-of-pocket costs, and treatment initiation.</li>
 <li>Evaluation of methods for analyzing multiple outcomes with differing hypotheses in platform trials.</li>
 <li>Previous research on SMART designs with survival and time-to-event outcomes.</li>
@@ -270,7 +263,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/venerahm\.github\.io");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
