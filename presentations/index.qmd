@@ -2,7 +2,7 @@
 title: "Presentations"
 ---
 
-## Contributed oral presentations
+## Contributed Oral Presentations
 
 - **Venera, H.**, Walton, M., Wang, B., & Kidwell, K. Zero Inflated Outcomes in SMART Designs. Society for Clinical Trials Annual Meeting. Phoenix, Arizona, 2026.
 
@@ -16,7 +16,7 @@ title: "Presentations"
 
 - **Venera, H.**, & Travis, K. COVID-19: An Econometric Analysis of Depression Rates. Midwest Economics Association Annual Meeting. Virtual, 2021.
 
-## Poster presentations
+## Poster Presentations
 
 - **Venera, H.**, Walton, M., Wang, B., & Kidwell, K. Zero Inflated Outcomes in SMART Designs. Joint Statistical Meetings. Boston, Massachusetts, 2026.
 

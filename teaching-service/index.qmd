@@ -14,7 +14,7 @@ title: "Teaching and Service"
 - **Guest Lecturer**, BIOSTAT 611: Graduate School and Professional Success Skills, 2024-2026
 - **Guest Lecturer**, BIOSTAT 619: Clinical Trials, 2023
 
-## Leadership and service
+## Leadership and Service
 
 ### Statistics in the Community
 
@@ -22,7 +22,7 @@ Since 2021, I have supported community-engaged statistical consulting through St
 
 I have helped scope and direct consulting projects, mentor student consultants, coordinate relationships with community partners, manage budgets and fundraising, and establish a national chapter network and annual meeting.
 
-### Additional service
+### Additional Service
 
 - Biostatistics representative and board member, University of Michigan School of Public Health Doctoral Association
 - STEM professional and mentor, Letters to a Pre-Scientist
@@ -32,7 +32,7 @@ I have helped scope and direct consulting projects, mentor student consultants, 
 - DataFest mentor, Pacific Lutheran University, 2023, 2025, and 2026
 - Graduate student mentor and Peer Mentoring Committee member, 2022-2025
 
-## Professional development
+## Professional Development
 
 - **Science Communication Fellow**, University of Michigan Museum of Natural History and NSF Portal to the Public, 2026
 - **Scientific Writing Workshop**, University of Michigan and Kenyon College, 2026

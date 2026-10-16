@@ -11,20 +11,18 @@ about:
     - icon: github
       text: Github
       href: https://github.com/venerahm
-  image: images/Headshot_Compressed.jpeg
+  image: images/Headshot_2026_ENAR.JPEG
 ---
 
 ## Bio
 
-I am a PhD candidate in Biostatistics at the University of Michigan, with an expected graduation date of May 2027. I work with Dr. Kelley Kidwell and Dr. Bingkai Wang on statistical methods for Sequential Multiple Assignment Randomized Trials (SMARTs).
+I am a Biostatistics PhD candidate at the University of Michigan, with an expected graduation date of May 2027. I work with Dr. Kelley Kidwell and Dr. Bingkai Wang on statistical methods for Sequential Multiple Assignment Randomized Trials (SMARTs).
 
 My dissertation develops methods for zero-inflated longitudinal outcomes and baseline-adjusted estimation in SMARTs. My broader interests include adaptive interventions, clinical trials, longitudinal data analysis, and statistical methods for improving the precision and interpretability of treatment comparisons.
 
 I earned an MS in Biostatistics from the University of Michigan in 2023 and a BS in Financial Mathematics and BA in Economics from Pacific Lutheran University in 2021.
 
-You can find a [list of my publications here](papers/index.qmd). 
-
-## Research interests
+## Research Interests
 
 - **Sequential Multiple Assignment Randomized Trials**: A type of multi-stage, factorial, randomized trial, in which some or all participants are randomized at two or more decision points
 - **Clinical and Collaborative Research:** Applications in behavioral interventions, oncology, and complex clinical trials.
@@ -37,7 +35,7 @@ Nahum-Shani, I., Dziak, J., **Venera, H.**, Spring, B., & Dempsey, W. Design of 
 
 [View all publications and manuscripts](papers/index.qmd).
 
-## Professional affiliations
+## Professional Affiliations
 
 **[Statistics in the Community (STATCOM)](https://sph.umich.edu/biostat/statcom/)** | Member since 2021
 
